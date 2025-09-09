@@ -36,6 +36,7 @@ An **Android app built with React Native** that identifies the **framework/techn
 🔗 **Download APK:** [Google Drive Link](https://drive.google.com/file/d/1ExS1J_iEZJSqvyxaxWW7uR_qb--Scxlx/view)
 
 **Screenshot:**
+
 ![App Screenshot](https://pbs.twimg.com/media/GyvMl4fWsAANRh4?format=jpg\&name=small)
 
 ---
